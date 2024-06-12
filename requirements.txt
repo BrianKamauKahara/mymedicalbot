@@ -1,4 +1,4 @@
-ctransformers==0.2.5
+ctransformers
 sentence-transformers==2.2.2
 pinecone-client
 langchain==0.0.225
@@ -7,4 +7,6 @@ pypdf
 python-dotenv
 pinecone
 langchain_community
+sentence_transformers
+langchain_pinecone
 -e .
