@@ -9,4 +9,6 @@ pinecone
 langchain_community
 sentence_transformers
 langchain_pinecone
+flask
+openai
 -e .
