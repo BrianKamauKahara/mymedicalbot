@@ -5,7 +5,6 @@ import pinecone
 from pinecone import Pinecone
 from langchain_pinecone import PineconeVectorStore
 from langchain.prompts import PromptTemplate
-from langchain.llms import CTransformers
 from langchain.chains import RetrievalQA
 from dotenv import load_dotenv
 from src.prompt import *
